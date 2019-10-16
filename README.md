@@ -1,2 +1,4 @@
 # hello-world
-learniing code
+hi
+am francis like java,python
+like to join the club
